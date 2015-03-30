@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="half_white">#ccffffff</color>
+    <!-- 背景，80%透明白色，字体颜色在/numberWheelLibrary/res/layout/number_picker_with_selector_wheel.xml
+                            中直接修改   现在是# ff505050浅灰色    -->
+</resources>
